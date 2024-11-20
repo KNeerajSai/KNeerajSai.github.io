@@ -6,8 +6,8 @@ This project analyzes the Licenses Dataset using Python, Altair, and Vega-Lite. 
 2. A line chart tracking the number of licenses issued over time.
 
 ## Visualizations
-- [Licenses by Type (Bar Chart)](https://KNeerajSai.github.io/licenses-assignment/licenses_by_type.html)
-- [Licenses Over Time (Line Chart)](https://KNeerajSai.github.io/licenses-assignment/licenses_over_time.html)
+- [Licenses by Type (Bar Chart)](https://kneerajsai.github.io/licenses-assignment/licenses_by_type_filtered.html)
+- [Licenses Over Time (Line Chart)](https://kneerajsai.github.io/licenses-assignment/licenses_over_time_filtered.html)
 
 ## Dataset
 The dataset used for this analysis is publicly available:
