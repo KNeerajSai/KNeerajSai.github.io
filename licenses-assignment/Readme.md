@@ -15,7 +15,7 @@ The dataset used for this analysis is publicly available:
 
 ## Analysis
 The Python notebook used for this project is available here:
-- [Analysis Notebook](./app.py)
+- [Analysis Notebook](https://github.com/KNeerajSai/KNeerajSai.github.io/blob/main/licenses-assignment/app.py)
 
 
 ## Visualization Details
