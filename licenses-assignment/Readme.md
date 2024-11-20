@@ -15,7 +15,7 @@ The dataset used for this analysis is publicly available:
 
 ## Analysis
 The Python notebook used for this project is available here:
-- [Analysis Notebook](https://github.com/KNeerajSai/licenses-assignment/blob/main/assignment_notebook.ipynb)
+- [Analysis Notebook](https://github.com/KNeerajSai/licenses-assignment/blob/main/app.py)
 
 ## Visualization Details
 ### 1. Licenses by Type (Bar Chart)
