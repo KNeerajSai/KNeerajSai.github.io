@@ -1,4 +1,4 @@
-# Licenses Dataset Analysis
+# Licenses Dataset Analysiss
 
 ## Project Description
 This project analyzes the Licenses Dataset using Python, Altair, and Vega-Lite. Two visualizations are created to explore the data:
